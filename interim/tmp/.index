@@ -1,0 +1,12 @@
+{
+  "0": "<li><a class = \"page\" href=\"9\">Chapter I.</a> <span class=\"flex\">9</span> </li>",
+  "1": "<li><a class = \"page\" href=\"27\">Chapter II.</a> <span class=\"flex\">27</span> </li>",
+  "2": "<li><a class = \"page\" href=\"54\">Chapter III.</a> <span class=\"flex\">54</span> </li>",
+  "3": "<li><a class = \"page\" href=\"85\">Chapter IV.</a> <span class=\"flex\">85</span> </li>",
+  "4": "<li><a class = \"page\" href=\"109\">Chapter V.</a> <span class=\"flex\">109</span> </li>",
+  "5": "<li><a class = \"page\" href=\"132\">Chapter Toinen Osa.</a> <span class=\"flex\">132</span> </li>",
+  "6": "<li><a class = \"page\" href=\"133\">Chapter I.</a> <span class=\"flex\">133</span> </li>",
+  "7": "<li><a class = \"page\" href=\"166\">Chapter II.</a> <span class=\"flex\">166</span> </li>",
+  "8": "<li><a class = \"page\" href=\"197\">Chapter III.</a> <span class=\"flex\">197</span> </li>",
+  "9": "<li><a class = \"page\" href=\"226\">Chapter IV.</a> <span class=\"flex\">226</span> </li>"
+}
